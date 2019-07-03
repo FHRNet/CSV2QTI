@@ -1,3 +1,5 @@
 # Usage
-
 python CSV2QTI.py <csv_file> <output_name>
+
+# Credits
+Original by https://github.com/nenad/CSV2QTI
