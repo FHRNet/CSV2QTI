@@ -1,0 +1,3 @@
+# Usage
+
+python CSV2QTI.py <csv_file> <output_name>
